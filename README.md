@@ -1,5 +1,4 @@
-# NodeJS
-**Testing with Jest**
+# NodeJS - Testing with Jest
 
 **Nadia’s Garden Restaurant**
 
